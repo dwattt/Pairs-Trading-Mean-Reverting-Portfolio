@@ -1,1 +1,1 @@
-# fina4380-proj
+# Pairs Trading Mean Reverting Portfolio
